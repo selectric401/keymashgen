@@ -89,7 +89,7 @@ static void usage(void)
 	fputs("\tDo not use any vowels so as to avoid accidental nasty words\n",
 	      stderr);
 	fputs("  -b or --bottom\n", stderr);
-	fputs("\tPrefer home-row characters\n",
+	fputs("\tGenerate keysmash uwu (MAKES BAD PASSWORDS, DO NOT USE THIS)\n",
 	      stderr);
 	fputs("  -S or --bottom-semicolons\n", stderr);
 	fputs("\tPrefer home-row characters, but with semicolons\n",stderr);
